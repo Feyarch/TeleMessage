@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tyukh\\Source\\Repos\\TeleMessenger\\Server\\Server.csproj": {}
+    "C:\\Users\\tyukh\\Source\\Repos\\TeleMessage\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tyukh\\Source\\Repos\\TeleMessenger\\Server\\Server.csproj": {
+    "C:\\Users\\tyukh\\Source\\Repos\\TeleMessage\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tyukh\\Source\\Repos\\TeleMessenger\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\tyukh\\Source\\Repos\\TeleMessage\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\tyukh\\Source\\Repos\\TeleMessenger\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\tyukh\\Source\\Repos\\TeleMessage\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\tyukh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tyukh\\Source\\Repos\\TeleMessenger\\Server\\obj\\",
+        "outputPath": "C:\\Users\\tyukh\\Source\\Repos\\TeleMessage\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tyukh\\AppData\\Roaming\\NuGet\\NuGet.Config",

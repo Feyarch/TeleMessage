@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bgyAgoVPKs4gj6Lr0tYabZxzWmt0N0FvH06VFUYH+KgX/gZgppaclVvqVi9wR+4f3KIoH4eizU9ELVGyZJvkIA==",
+  "dgSpecHash": "KZhZpWEj1culiccIg1uFMAnh3ApYIcmHe0BeG+4yG4c/Q3EnXeHi21BWwR4KWgJYkG3bK6VmSKEup3w1TM1x2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tyukh\\Source\\Repos\\TeleMessenger\\Server\\Server.csproj",
+  "projectFilePath": "C:\\Users\\tyukh\\Source\\Repos\\TeleMessage\\Server\\Server.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
